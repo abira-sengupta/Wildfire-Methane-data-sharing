@@ -1,1 +1,1 @@
-![Example Image](image/World-methane-flux.png).
+![Example Image](image/wa-fire-spread.png).
